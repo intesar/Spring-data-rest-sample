@@ -1,3 +1,9 @@
+Demo available
+http://www.zytoon.me/PersonWeb-1.0-SNAPSHOT
+
+http://www.zytoon.me/PersonWeb-1.0-SNAPSHOT/people/
+
+
 Clone or Download
  git clone https://github.com/intesar/Spring-data-rest-sample.git
 
