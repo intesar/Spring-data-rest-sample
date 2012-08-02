@@ -1,12 +1,15 @@
 Clone or Download
- git clone 
+ git clone https://github.com/intesar/Spring-data-rest-sample.git
 
 Running App
  mvn clean jetty:run
 
-URL Access
+Sample URL Access
 
 http://localhost:8080/PersonWeb/
 http://localhost:8080/PersonWeb/people/
 
 Note : This app uses HSQL DB, so no need to setup any DB.
+
+Checkout "Advance REST Client" chrome extension for making API calls
+https://chrome.google.com/webstore/detail/hgmloofddffdnphfgcellkdfbfbjeloo
