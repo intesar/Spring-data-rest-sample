@@ -1,0 +1,8 @@
+[] - 2012-08-01 19:45:09,517 -  - select count(*) as col_0_0_ from Person person0_ limit ?
+[] - 2012-08-01 19:45:46,252 -  - select count(*) as col_0_0_ from Person person0_ limit ?
+[] - 2012-08-01 19:46:01,601 -  - select count(*) as col_0_0_ from Person person0_ limit ?
+[] - 2012-08-01 19:52:43,923 -  - insert into Person (id, name, version) values (default, ?, ?)
+[] - 2012-08-01 19:53:00,386 -  - select count(*) as col_0_0_ from Person person0_ limit ?
+[] - 2012-08-01 19:53:00,387 -  - select person0_.id as id0_, person0_.name as name0_, person0_.version as version0_ from Person person0_ limit ?
+[] - 2012-08-01 19:55:33,640 -  - select person0_.id as id0_, person0_.name as name0_, person0_.version as version0_ from Person person0_ where person0_.name=?
+[] - 2012-08-01 19:55:38,852 -  - select person0_.id as id0_, person0_.name as name0_, person0_.version as version0_ from Person person0_ where person0_.name=?
