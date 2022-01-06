@@ -23,7 +23,7 @@
         <!-- jdbc driver dependency -->
         <jdbc.groupId>com.h2database</jdbc.groupId>
         <jdbc.artifactId>h2</jdbc.artifactId>
-        <jdbc.version>1.2.131</jdbc.version>
+        <jdbc.version>2.0.206</jdbc.version>
         <!-- jdbc settings -->
         <jdbc.type>h2</jdbc.type>
         <jdbc.driver>org.h2.Driver</jdbc.driver>
